@@ -50,6 +50,7 @@ int main(void) {
   test_swap_max();
   test_ssort();
   }
+
 void swap_max(int arr[], int l, int position){
   int flag = 0; 
  int max = position;
